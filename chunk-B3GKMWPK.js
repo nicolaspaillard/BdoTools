@@ -1,2 +1,0 @@
-import{m as s,n as r}from"./chunk-DFKP3WOP.js";import{Fb as p,Wa as o,pb as n,qb as i,wb as m}from"./chunk-ZAPM4TD6.js";var l=class t{test=()=>alert("eh");static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-home"]],decls:2,vars:0,consts:[["label","click me",3,"onClick"]],template:function(e,c){e&1&&(p(0,`Prout
-`),n(1,"p-button",0),m("onClick",function(){return c.test()}),i())},dependencies:[r,s],encapsulation:2})};export{l as HomeComponent};
