@@ -1,0 +1,1 @@
+import{o as n}from"./chunk-AON7MOMT.js";import{db as t}from"./chunk-ISY7BRHA.js";var m=class e{test=()=>alert("eh");static \u0275fac=function(o){return new(o||e)};static \u0275cmp=t({type:e,selectors:[["app-home"]],decls:0,vars:0,template:function(o,s){},dependencies:[n],encapsulation:2})};export{m as HomeComponent};
